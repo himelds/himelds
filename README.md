@@ -1,5 +1,5 @@
 <!-- 🖼️ GitHub Banner -->
-![GitHub Banner](https://raw.githubusercontent.com/saadeghi/saadeghi/master/intro.gif)
+![GitHub Banner](https://i.ibb.co/NpPvJ2Y/data-science-github-banner.png)
 
 <h1 align="center">Hi 👋, I'm Himel Das</h1>
 <h3 align="center">Data Science | AI | Visualization | Real-world Problem Solver</h3>
