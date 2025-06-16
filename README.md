@@ -61,6 +61,33 @@
 
 ---
 
+## 🚀 I'm Open To
+
+🔹 Data Scientist / Data Analyst Roles  
+🔹 Applied AI & ML Research Collaborations  
+🔹 Freelance Data Projects or Open Source Contributions  
+🔹 Remote/Hybrid Internship Opportunities (AI, ML, Data Analytics)
+
+---
+
+## 📫 Let's Connect!
+
+<p align="left">
+  <a href="mailto:himeldas077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/himeldas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://himelds.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+</p>
+
+---
+
+## 👁️‍🗨️ Visitor Count
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=himelds&label=Profile%20Views&color=0e75b6&style=flat" alt="himelds" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 [Expense Management System](https://github.com/himelds/expense-management)
