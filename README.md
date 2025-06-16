@@ -17,10 +17,10 @@
 
 ## 🚀 I'm Open To
 
-🔹 Data Scientist / Data Analyst Roles  
-🔹 Applied AI & ML Research Collaborations / PhD Candidate  
-🔹 Remote/Hybrid Internship Opportunities (AI, ML, Data Analytics)
-🔹 Freelance Data Project / Open Source Contribution
+- 🔹 **Data Scientist / Data Analyst** Roles  
+- 🔹 **Applied AI & ML Research Collaborations / PhD Candidate**  
+- 🔹 **Remote/Hybrid Internship Opportunities** (AI, ML, Data Analytics)  
+- 🔹 **Freelance Data Projects** / Open Source Contribution
 
 ---
 
