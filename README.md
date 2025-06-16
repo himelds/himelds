@@ -70,24 +70,6 @@
 
 ---
 
-## 📫 Let's Connect!
-
-<p align="left">
-  <a href="mailto:himeldas077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/himeldas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://himelds.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-</p>
-
----
-
-## 👁️‍🗨️ Visitor Count
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=himelds&label=Profile%20Views&color=0e75b6&style=flat" alt="himelds" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 [Expense Management System](https://github.com/himelds/expense-management)
@@ -145,3 +127,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himelds&theme=gruvbox" alt="GitHub Streak" />
 </p>
+
+## 👁️‍🗨️ Visitor Count
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=himelds&label=Profile%20Views&color=0e75b6&style=flat" alt="himelds" />
+</p>
+
+---
