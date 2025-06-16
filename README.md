@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- 🖼️ GitHub Banner -->
 ![GitHub Banner](https://raw.githubusercontent.com/saadeghi/saadeghi/master/intro.gif)
 
 <h1 align="center">Hi 👋, I'm Himel Das</h1>
