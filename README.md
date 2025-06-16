@@ -1,6 +1,3 @@
-<!-- 🖼️ GitHub Banner -->
-![GitHub Banner](https://i.ibb.co/NpPvJ2Y/data-science-github-banner.png)
-
 <h1 align="center">Hi 👋, I'm Himel Das</h1>
 <h3 align="center">Data Science | AI | Visualization | Real-world Problem Solver</h3>
 
@@ -15,6 +12,15 @@
 🎓 **Recent MSc Graduate** in *Applied Artificial Intelligence and Data Analytics* from the University of Bradford, UK. I specialize in building data-driven, real-world solutions using machine learning, automation, and advanced analytics. Passionate about simplifying complexity through data.
 
 💡 My interest lies in solving real-world challenges through AI, Data Science, and modern web tools. I bring a collaborative, problem-solving mindset to everything I work on.
+
+---
+
+## 🚀 I'm Open To
+
+🔹 Data Scientist / Data Analyst Roles  
+🔹 Applied AI & ML Research Collaborations / PhD Candidate
+🔹 Freelance Data Projects or Open Source Contributions  
+🔹 Remote/Hybrid Internship Opportunities (AI, ML, Data Analytics)
 
 ---
 
@@ -64,15 +70,6 @@
 
 ---
 
-## 🚀 I'm Open To
-
-🔹 Data Scientist / Data Analyst Roles  
-🔹 Applied AI & ML Research Collaborations  
-🔹 Freelance Data Projects or Open Source Contributions  
-🔹 Remote/Hybrid Internship Opportunities (AI, ML, Data Analytics)
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 [Expense Management System](https://github.com/himelds/expense-management)
@@ -93,16 +90,6 @@
 
 ---
 
-## 🏆 Certifications & Development
-
-- 🥇 Google Data Analytics Professional Certificate  
-- 🧠 Python: Beginner to Advanced For Data Professionals  
-- 📊 Power BI Data Analytics For All Levels  
-- 🛠️ SQL: Beginner to Advanced  
-- 📚 *Making Sense of Data*, *Information Visualization* (Aarhus University | Turning Scheme UK)
-
----
-
 ## 🎓 Education
 
 **University of Bradford, UK**  
@@ -113,17 +100,6 @@
 *BSc Engineering in Electrical and Electronic Engineering*
 
 ---
-
-## 🧩 Experience & Leadership
-
-**Welcome Week Ambassador – University of Bradford**  
-→ Guided 400+ new students with onboarding, documents, and orientation.
-
-**Co-Office & Finance Secretary – FSET Debate Club, USTC**  
-→ Managed budgeting, operations, and communication for campus-wide events.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
