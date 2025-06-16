@@ -19,6 +19,7 @@
 
 🔹 Data Scientist / Data Analyst Roles  
 🔹 Applied AI & ML Research Collaborations / PhD Candidate
+
 🔹 Freelance Data Projects or Open Source Contributions  
 🔹 Remote/Hybrid Internship Opportunities (AI, ML, Data Analytics)
 
