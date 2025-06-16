@@ -15,22 +15,49 @@
 
 ---
 
-## 🔧 Skills & Technologies
+## 🔧 Tools & Technologies
 
-**Languages:**  
-`Python`, `SQL`, `R`
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+</p>
 
-**ML/AI Tools:**  
-`scikit-learn`, `Feature Engineering`, `Model Tuning`, `PyTorch (basic)`, `TensorFlow (basic)`
+### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Tuning-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-orange?style=flat" />
+</p>
 
-**Visualization:**  
-`Power BI`, `Matplotlib`, `Seaborn`, `Plotly`, `Excel`
+### 📊 Data Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-FFDD44?style=flat&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-4466A1?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+</p>
 
-**Tools & Platforms:**  
-`Streamlit`, `FastAPI`, `MySQL`, `Git`, `Power Query`, `Jupyter`
+### 🛠️ Tools & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-008272?style=flat&logo=microsoft&logoColor=white" />
+</p>
 
-**Soft Skills:**  
-Problem-solving, Collaboration, Agile Mindset, Communication
+### 🧠 Soft Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem%20Solving-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Collaboration-green?style=flat" />
+  <img src="https://img.shields.io/badge/Agile%20Mindset-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Communication-lightblue?style=flat" />
+</p>
 
 ---
 
