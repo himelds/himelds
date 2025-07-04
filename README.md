@@ -84,7 +84,7 @@
 **Tech:** Scikit-learn, Regression Models  
 → Achieved R² = 0.94 for demand prediction using weather & time-based features, enabling smart resource planning.
 
-### 🔹 [Business 360 Dashboard](https://github.com/himelds/business-insights-dashboard)  
+### 🔹 [Business 360 Dashboard](https://github.com/himelds/Business-360-insight)  
 **Tech:** Power BI, SQL  
 → Delivered a dynamic BI dashboard integrating SQL + Excel for AtliQ Hardware, with 5% optimized DAX performance.
 
