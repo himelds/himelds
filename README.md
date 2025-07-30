@@ -72,15 +72,15 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Expense Management System](https://github.com/himelds/expense-management)
+### 🔹 [Expense Management System](https://github.com/himelds/Expense-Management-System)
 **Tech:** FastAPI, Streamlit  
 → Built a full-stack personal finance tracker with async APIs, modular architecture, and real-time interactive UI.
 
-### 🔹 [UK Traffic Accident Analysis](https://github.com/himelds/uk-traffic-accident-analysis)  
+### 🔹 [UK Traffic Accident Analysis](https://github.com/himelds/Analysis_of_United_Kingdom_Traffic_Accidents)  
 **Tech:** Pandas, Seaborn, Python  
 → Analyzed 1.8M+ records to explore critical factors affecting accident severity, aiding policy and planning.
 
-### 🔹 [London Bike-Sharing Demand Prediction](https://github.com/himelds/london-bike-sharing-demand)  
+### 🔹 [London Bike-Sharing Demand Prediction](https://github.com/himelds/London_Bike_Sharing_Project)  
 **Tech:** Scikit-learn, Regression Models  
 → Achieved R² = 0.94 for demand prediction using weather & time-based features, enabling smart resource planning.
 
