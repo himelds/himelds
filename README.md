@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/himelds/himelds/main/banner.png" alt="Himel Das - Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/himelds/himelds/main/banner.svg" alt="Himel Das - Banner" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Deep+Learning;Building+Real-World+AI+Solutions;From+Raw+Data+to+Actionable+Insight;Available+for+New+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
