@@ -1,70 +1,180 @@
 <div align="center">
-  <br>
-  <h1>Himel Das</h1>
-  <p>
-    <b>Data Science | Applied AI | Data Visualization</b>
-  </p>
-  <p>
-    <a href="mailto:himeldas077@gmail.com"><img src="https://img.shields.io/badge/Email_Me-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/himeldas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://himelds.github.io"><img src="https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  </p>
-  <br>
+
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Himel%20Das&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=MSc+in+Applied+AI+%26+Data+Analytics;Building+Data-Driven+Real-World+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Open+to+Exciting+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Contact Badges -->
+<a href="mailto:himeldas077@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-himeldas077%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/himeldas/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Himel%20Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://himelds.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-24292e?style=for-the-badge&logo=google-chrome&logoColor=58a6ff"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=himelds&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+
 </div>
 
-### ✦ About Me
+---
 
-I am a recent MSc Graduate in **Applied Artificial Intelligence and Data Analytics** from the University of Bradford. My focus revolves around building clean, data-driven solutions through machine learning, thoughtful data visualization, and scalable backend architecture. 
+## 🧑‍💻 About Me
 
-Currently, I am exploring opportunities for **Data Scientist / Analyst roles**, **Applied AI Research**, and **open-source collaborations**.
+```python
+class HimelDas:
+    def __init__(self):
+        self.name        = "Himel Das"
+        self.role        = "Data Scientist | AI Engineer"
+        self.education   = "MSc Applied AI & Data Analytics — University of Bradford, UK"
+        self.location    = "United Kingdom 🇬🇧"
+        self.interests   = ["Machine Learning", "Deep Learning", "Data Visualization",
+                            "Real-world AI Solutions", "Research & Innovation"]
+        self.open_to     = ["Data Scientist / Analyst Roles",
+                            "PhD Candidacy / Research Collaborations",
+                            "Remote AI/ML Internships",
+                            "Freelance Data Projects"]
 
-<br>
+    def contact(self):
+        return "himeldas077@gmail.com"
+```
 
-### ✦ Tech Stack
+---
 
-| Category | Technologies |
-| :--- | :--- |
-| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" /> |
-| **Machine Learning** | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Tensorflow" /> |
-| **Data Viz & BI** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Seaborn-4466A1?style=flat-square&logo=python&logoColor=white" alt="Seaborn" /> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" /> |
-| **Engineering** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Fastapi" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> |
-
-<br>
-
-### ✦ Featured Highlights
-
-> **[Expense Management System](https://github.com/himelds/Expense-Management-System)**  
-> <sub>*FastAPI, Streamlit, Python*</sub>  
-> A full-stack personal finance tracker utilizing fully async APIs and a modular, real-time interactive UI.
-
-> **[London Bike-Sharing Demand Prediction](https://github.com/himelds/London_Bike_Sharing_Project)**  
-> <sub>*Scikit-learn, Regression Models*</sub>  
-> Achieved a highly accurate R²=0.94 for system demand forecasting by feature engineering weather and time-based metrics.
-
-> **[Business 360 Dashboard](https://github.com/himelds/Business-360-insight)**  
-> <sub>*Power BI, SQL, Excel*</sub>  
-> Delivered a dynamic BI dashboard for AtliQ Hardware, optimizing DAX measures to enhance overall performance by 5%.
-
-> **[UK Traffic Accident Analysis](https://github.com/himelds/Analysis_of_United_Kingdom_Traffic_Accidents)**  
-> <sub>*Pandas, Seaborn, Python*</sub>  
-> Conducted in-depth exploratory data analysis on a 1.8M+ record dataset to highlight critical indicators affecting accident severity.
-
-<br>
-
-### ✦ Analytics
+## 🚀 Open To Opportunities
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=himelds&theme=tokyonight&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=himelds&theme=default&hide_border=true" alt="GitHub Streak" />
-  </picture>
+
+| 🎯 Role | 📌 Type |
+|---|---|
+| Data Scientist / Data Analyst | Full-time / Contract |
+| Applied AI & ML Research | Collaboration / PhD |
+| AI / ML / Data Analytics | Remote Internship |
+| Open Source / Freelance | Data Projects |
+
 </div>
 
-<p align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=himelds&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🤖 Machine Learning & AI
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 📊 Data Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4466A1?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🧰 Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech Stack | Highlights |
+|---|---|---|
+| [💳 Expense Management System](https://github.com/himelds/Expense-Management-System) | FastAPI · Streamlit | Full-stack personal finance tracker with async APIs & modular architecture |
+| [🚗 UK Traffic Accident Analysis](https://github.com/himelds/Analysis_of_United_Kingdom_Traffic_Accidents) | Pandas · Seaborn · Python | Analyzed **1.8M+ records** for accident severity insights to support policy planning |
+| [🚲 London Bike-Sharing Demand Prediction](https://github.com/himelds/London_Bike_Sharing_Project) | Scikit-learn · Regression | Achieved **R² = 0.94** using weather & time-based features for smart resource planning |
+| [📊 Business 360 Dashboard](https://github.com/himelds/Business-360-insight) | Power BI · SQL | Dynamic BI dashboard for AtliQ Hardware with optimized DAX for **5% perf gain** |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>University of Bradford, UK</strong><br/>
+    Master of Science — Applied Artificial Intelligence and Data Analytics<br/>
+    <em>Modules: Machine Learning, Big Data Visualization, Business Analytics</em></td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><strong>University of Science and Technology Chittagong, BD</strong><br/>
+    Bachelor of Science Engineering — Electrical and Electronic Engineering</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=himelds&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=himelds&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=4" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/himelds/himelds/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+
+*"Turning data into decisions, and complexity into clarity."*
+
+⭐ **If you find my work helpful, consider starring my repos!**
+
+</div>
