@@ -159,8 +159,6 @@ I'm drawn to problems where data can change how decisions are made — and I bri
 ---
 <div align="center">
 
-*"Turning data into decisions, and complexity into clarity."*
-
 ⭐ **If you find my work helpful, consider starring my repos!**
 
 ![Wave](https://img.shields.io/badge/-Thanks%20for%20visiting!-58a6ff?style=flat-square)
