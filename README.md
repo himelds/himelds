@@ -32,8 +32,8 @@
 ## 🧑‍💻 About Me
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
+<tr>
+<td valign="top" width="50%">
 
 ### 👋 Hi, I'm Himel!
 
@@ -41,8 +41,8 @@ I'm a **recent MSc graduate** in *Applied Artificial Intelligence and Data Analy
 
 💡 My passion lies in simplifying complexity through data — turning raw numbers into meaningful insights and actionable decisions.
 
-    </td>
-    <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 ### 🔍 Quick Facts
 
@@ -54,8 +54,8 @@ I'm a **recent MSc graduate** in *Applied Artificial Intelligence and Data Analy
 - 📫 **Reach me:** himeldas077@gmail.com
 - ⚡ **Fun fact:** I turn messy datasets into clean stories!
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
