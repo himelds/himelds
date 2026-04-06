@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Himel%20Das&fontSize=70&fontColor=58a6ff&fontAlignY=40&desc=Turning%20data%20into%20decisions%2C%20and%20complexity%20into%20clarity&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d2137&height=180&text=Himel%20Das&fontSize=72&fontColor=58a6ff&fontAlignY=45&desc=Turning%20data%20into%20decisions%2C%20and%20complexity%20into%20clarity&descAlignY=68&descColor=8b949e" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist+%7C+AI+Engineer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Transforming+Raw+Data+into+Real+Insights;%F0%9F%94%B9+Open+to%3A+Data+Scientist+%7C+Analyst+%7C+PhD+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist+%26+AI+Engineer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+End-to-End+ML+Solutions;Turning+Complex+Data+into+Actionable+Insights;Open+to+New+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,19 +29,19 @@
 
 ## 🧑‍💻 About Me
 
-👋 Hi, I'm **Himel Das** — a recent **MSc graduate** in *Applied Artificial Intelligence and Data Analytics* from the **University of Bradford, UK**.
+**Data Scientist & AI Engineer** with an MSc in Applied Artificial Intelligence and Data Analytics from the University of Bradford, UK. I specialise in designing and delivering end-to-end machine learning solutions — from exploratory analysis and feature engineering through to deployment and business reporting.
 
-I specialise in building **data-driven, real-world solutions** using machine learning, automation, and advanced analytics. My passion lies in simplifying complexity through data — turning raw numbers into meaningful insights and actionable decisions.
+My core strength is bridging the gap between complex data and real-world impact: extracting actionable intelligence that drives smarter, faster decisions. I bring a rigorous analytical mindset, clean engineering practices, and a genuine passion for solving hard problems with data.
 
 | | |
 |---|---|
 | 🎓 **Degree** | MSc Applied AI & Data Analytics |
 | 🏛️ **University** | University of Bradford, UK |
 | 📍 **Location** | United Kingdom 🇬🇧 |
-| 🌱 **Currently** | Exploring PhD & industry roles |
-| 💬 **Ask me about** | ML, Data Analysis, Python |
+| 🔭 **Interests** | Machine Learning · Deep Learning · Data Science |
+| 💬 **Ask me about** | ML pipelines, Python, Data Visualization |
 | 📫 **Email** | himeldas077@gmail.com |
-| ⚡ **Fun fact** | I turn messy datasets into clean stories! |
+| ⚡ **Fun fact** | I find patterns where others see noise! |
 
 ---
 
