@@ -70,15 +70,10 @@ I specialise in building **data-driven, real-world solutions** using machine lea
 </tr>
 </table>
 
-<br/>
-
-**📊 Data & Visualization**
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4466A1?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-<br/>
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -168,10 +163,10 @@ I specialise in building **data-driven, real-world solutions** using machine lea
 <table>
 <tr>
 <td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=github_dark&hide_border=true" />
 </td>
 <td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelds&layout=compact&theme=github_dark&hide_border=true" />
 </td>
 </tr>
 </table>
@@ -185,7 +180,7 @@ I specialise in building **data-driven, real-world solutions** using machine lea
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himelds&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=himelds&theme=onedark&column=4&margin-w=8" />
 </div>
 
 ---
