@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1e1b4b,100:4338ca&height=200&text=Himel%20Das&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Turning%20data%20into%20decisions%2C%20and%20complexity%20into%20clarity&descAlign=50&descAlignY=66&descColor=c9d1d9&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/himelds/himelds/main/banner.png" alt="Himel Das - Banner" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Python+%E2%80%A2+Machine+Learning+%E2%80%A2+Deep+Learning;Building+Real-World+AI+Solutions;From+Raw+Data+to+Actionable+Insight;Available+for+New+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
