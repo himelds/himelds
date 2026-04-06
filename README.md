@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Gmail-himeldas077%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/himeldas/" target="_blank">
+<a href="https://www.linkedin.com/in/dashimel" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Himel%20Das-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
