@@ -35,7 +35,7 @@ My focus is on building intelligent, end-to-end solutions — from exploratory d
 
 I'm drawn to problems where data can change how decisions are made — and I bring a rigorous analytical mindset, clean engineering practices, and genuine curiosity to every challenge.
 
-📍 University of Bradford, UK &nbsp;·&nbsp; 🇬🇧 United Kingdom &nbsp;·&nbsp; 📬 [himeldas077@gmail.com](mailto:himeldas077@gmail.com)
+📬 [himeldas077@gmail.com](mailto:himeldas077@gmail.com)
 
 ---
 
@@ -152,32 +152,11 @@ I'm drawn to problems where data can change how decisions are made — and I bri
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=github_dark&hide_border=true" />
-</td>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelds&layout=compact&theme=github_dark&hide_border=true" />
-</td>
-</tr>
-</table>
-
 <img width="70%" src="https://streak-stats.demolab.com/?user=himelds&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=himelds&theme=onedark&column=4&margin-w=8" />
-</div>
-
----
-
-<div align="center">
 
 *"Turning data into decisions, and complexity into clarity."*
 
