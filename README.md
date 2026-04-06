@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Himel%20Das&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Himel%20Das&fontSize=70&fontColor=58a6ff&fontAlignY=40&desc=Turning%20data%20into%20decisions%2C%20and%20complexity%20into%20clarity&descAlignY=60&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=MSc+in+Applied+AI+%26+Data+Analytics;Building+Data-Driven+Real-World+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;%F0%9F%94%B9+Open+to%3A+Data+Scientist+%7C+PhD+%7C+Remote+AI%2FML+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Data+Scientist+%7C+AI+Engineer;Python+%7C+Machine+Learning+%7C+Deep+Learning;Transforming+Raw+Data+into+Real+Insights;%F0%9F%94%B9+Open+to%3A+Data+Scientist+%7C+Analyst+%7C+PhD+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,11 +21,9 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-24292e?style=for-the-badge&logo=google-chrome&logoColor=58a6ff"/>
 </a>
 
-<br/><br/>
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=himelds&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-
-</div>
 
 ---
 
@@ -185,21 +183,13 @@ I specialise in building **data-driven, real-world solutions** using machine lea
 
 ---
 
-## 📈 Contribution Activity
-
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himelds&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
 *"Turning data into decisions, and complexity into clarity."*
 
 ⭐ **If you find my work helpful, consider starring my repos!**
 
+![Wave](https://img.shields.io/badge/-Thanks%20for%20visiting!-58a6ff?style=flat-square)
+
 </div>
+
