@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Himel%20Das&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=MSc+in+Applied+AI+%26+Data+Analytics;Building+Data-Driven+Real-World+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;Open+to+Exciting+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=MSc+in+Applied+AI+%26+Data+Analytics;Building+Data-Driven+Real-World+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+MLOps;%F0%9F%94%B9+Open+to%3A+Data+Scientist+%7C+PhD+%7C+Remote+AI%2FML+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -31,47 +31,19 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="50%">
+👋 Hi, I'm **Himel Das** — a recent **MSc graduate** in *Applied Artificial Intelligence and Data Analytics* from the **University of Bradford, UK**.
 
-### 👋 Hi, I'm Himel!
+I specialise in building **data-driven, real-world solutions** using machine learning, automation, and advanced analytics. My passion lies in simplifying complexity through data — turning raw numbers into meaningful insights and actionable decisions.
 
-I'm a **recent MSc graduate** in *Applied Artificial Intelligence and Data Analytics* from the **University of Bradford, UK**. I specialise in building data-driven, real-world solutions using machine learning, automation, and advanced analytics.
-
-💡 My passion lies in simplifying complexity through data — turning raw numbers into meaningful insights and actionable decisions.
-
-</td>
-<td valign="top" width="50%">
-
-### 🔍 Quick Facts
-
-- 🎓 **Degree:** MSc Applied AI & Data Analytics
-- 🏛️ **University:** University of Bradford, UK
-- 📍 **Location:** United Kingdom 🇬🇧
-- 🌱 **Currently:** Exploring PhD & industry roles
-- 💬 **Ask me about:** ML, Data Analysis, Python
-- 📫 **Reach me:** himeldas077@gmail.com
-- ⚡ **Fun fact:** I turn messy datasets into clean stories!
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Open To Opportunities
-
-<div align="center">
-
-| 🎯 Role | 📌 Type |
+| | |
 |---|---|
-| Data Scientist / Data Analyst | Full-time / Contract |
-| Applied AI & ML Research | Collaboration / PhD |
-| AI / ML / Data Analytics | Remote Internship |
-| Open Source / Freelance | Data Projects |
-
-</div>
+| 🎓 **Degree** | MSc Applied AI & Data Analytics |
+| 🏛️ **University** | University of Bradford, UK |
+| 📍 **Location** | United Kingdom 🇬🇧 |
+| 🌱 **Currently** | Exploring PhD & industry roles |
+| 💬 **Ask me about** | ML, Data Analysis, Python |
+| 📫 **Email** | himeldas077@gmail.com |
+| ⚡ **Fun fact** | I turn messy datasets into clean stories! |
 
 ---
 
@@ -79,36 +51,28 @@ I'm a **recent MSc graduate** in *Applied Artificial Intelligence and Data Analy
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+**👨‍💻 Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,r,mysql&perline=8)](https://skillicons.dev)
 
-### 🤖 Machine Learning & AI
+**🤖 ML & AI Frameworks**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=8)](https://skillicons.dev)
 
-### 📊 Data Visualization
+**🧰 Tools & Platforms**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4466A1?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,github,git,vscode,jupyter&perline=8)](https://skillicons.dev)
 
-### 🧰 Frameworks & Tools
+<br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Proficient-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-Proficient-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Proficient-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 </div>
 
@@ -116,16 +80,56 @@ I'm a **recent MSc graduate** in *Applied Artificial Intelligence and Data Analy
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| [💳 Expense Management System](https://github.com/himelds/Expense-Management-System) | FastAPI · Streamlit | Full-stack personal finance tracker with async APIs & modular architecture |
-| [🚗 UK Traffic Accident Analysis](https://github.com/himelds/Analysis_of_United_Kingdom_Traffic_Accidents) | Pandas · Seaborn · Python | Analyzed **1.8M+ records** for accident severity insights to support policy planning |
-| [🚲 London Bike-Sharing Demand Prediction](https://github.com/himelds/London_Bike_Sharing_Project) | Scikit-learn · Regression | Achieved **R² = 0.94** using weather & time-based features for smart resource planning |
-| [📊 Business 360 Dashboard](https://github.com/himelds/Business-360-insight) | Power BI · SQL | Dynamic BI dashboard for AtliQ Hardware with optimized DAX for **5% perf gain** |
+### 💳 [Expense Management System](https://github.com/himelds/Expense-Management-System)
 
-</div>
+> Full-stack personal finance tracker with real-time interactive UI, async REST APIs, and a clean modular architecture.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [UK Traffic Accident Analysis](https://github.com/himelds/Analysis_of_United_Kingdom_Traffic_Accidents)
+
+> Analyzed **1.8M+ records** to explore critical factors affecting accident severity, providing insights for policy and planning.
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4466A1?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚲 [London Bike-Sharing Demand Prediction](https://github.com/himelds/London_Bike_Sharing_Project)
+
+> Achieved **R² = 0.94** for demand forecasting using weather & time-based features, enabling smart resource planning.
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Business 360 Dashboard](https://github.com/himelds/Business-360-insight)
+
+> Dynamic BI dashboard for AtliQ Hardware integrating SQL + Excel, with **5% DAX performance optimization**.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
