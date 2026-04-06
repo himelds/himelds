@@ -51,28 +51,38 @@ I specialise in building **data-driven, real-world solutions** using machine lea
 
 <div align="center">
 
-**👨‍💻 Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql&perline=8)](https://skillicons.dev)
-
-**🤖 ML & AI Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=8)](https://skillicons.dev)
-
-**🧰 Tools & Platforms**
-
-[![My Skills](https://skillicons.dev/icons?i=fastapi,github,git,vscode,jupyter&perline=8)](https://skillicons.dev)
+<table>
+<tr>
+<th align="center">👨‍💻 Languages</th>
+<th align="center">🤖 ML & AI</th>
+<th align="center">🧰 Tools & Platforms</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,r,mysql" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,github,git,vscode,jupyter" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Advanced-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Advanced-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-Proficient-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-Proficient-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Proficient-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+**📊 Data & Visualization**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4466A1?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 </div>
 
@@ -156,14 +166,14 @@ I specialise in building **data-driven, real-world solutions** using machine lea
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himelds&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</td>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himelds&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</td>
+</tr>
 </table>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=himelds&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
