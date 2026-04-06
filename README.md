@@ -157,6 +157,7 @@ I'm drawn to problems where data can change how decisions are made — and I bri
 </div>
 
 ---
+<div align="center">
 
 *"Turning data into decisions, and complexity into clarity."*
 
