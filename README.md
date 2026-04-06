@@ -31,23 +31,32 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class HimelDas:
-    def __init__(self):
-        self.name        = "Himel Das"
-        self.role        = "Data Scientist | AI Engineer"
-        self.education   = "MSc Applied AI & Data Analytics — University of Bradford, UK"
-        self.location    = "United Kingdom 🇬🇧"
-        self.interests   = ["Machine Learning", "Deep Learning", "Data Visualization",
-                            "Real-world AI Solutions", "Research & Innovation"]
-        self.open_to     = ["Data Scientist / Analyst Roles",
-                            "PhD Candidacy / Research Collaborations",
-                            "Remote AI/ML Internships",
-                            "Freelance Data Projects"]
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-    def contact(self):
-        return "himeldas077@gmail.com"
-```
+### 👋 Hi, I'm Himel!
+
+I'm a **recent MSc graduate** in *Applied Artificial Intelligence and Data Analytics* from the **University of Bradford, UK**. I specialise in building data-driven, real-world solutions using machine learning, automation, and advanced analytics.
+
+💡 My passion lies in simplifying complexity through data — turning raw numbers into meaningful insights and actionable decisions.
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🔍 Quick Facts
+
+- 🎓 **Degree:** MSc Applied AI & Data Analytics
+- 🏛️ **University:** University of Bradford, UK
+- 📍 **Location:** United Kingdom 🇬🇧
+- 🌱 **Currently:** Exploring PhD & industry roles
+- 💬 **Ask me about:** ML, Data Analysis, Python
+- 📫 **Reach me:** himeldas077@gmail.com
+- ⚡ **Fun fact:** I turn messy datasets into clean stories!
+
+    </td>
+  </tr>
+</table>
 
 ---
 
