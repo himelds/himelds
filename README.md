@@ -23,8 +23,6 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=himelds&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-
 ---
 
 ## 🧑‍💻 About Me
@@ -156,9 +154,8 @@ I'm drawn to problems where data can change how decisions are made — and I bri
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=himelds&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
-
 ---
+
 <div align="center">
 
 ⭐ **If you find my work helpful, consider starring my repos!**
@@ -166,4 +163,4 @@ I'm drawn to problems where data can change how decisions are made — and I bri
 ![Wave](https://img.shields.io/badge/-Thanks%20for%20visiting!-58a6ff?style=flat-square)
 
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=himelds&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
