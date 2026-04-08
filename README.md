@@ -156,6 +156,8 @@ I'm drawn to problems where data can change how decisions are made — and I bri
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=himelds&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+
 ---
 <div align="center">
 
