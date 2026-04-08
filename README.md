@@ -33,7 +33,6 @@ My focus is on building intelligent, end-to-end solutions — from exploratory d
 
 I'm drawn to problems where data can change how decisions are made — and I bring a rigorous analytical mindset, clean engineering practices, and genuine curiosity to every challenge.
 
-📬 [himeldas077@gmail.com](mailto:himeldas077@gmail.com)
 
 ---
 
