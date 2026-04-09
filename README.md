@@ -72,61 +72,6 @@ I'm drawn to problems where data can change how decisions are made — and I bri
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 [Expense Management System](https://github.com/himelds/Expense-Management-System)
-
-> Full-stack personal finance tracker with real-time interactive UI, async REST APIs, and a clean modular architecture.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 [UK Traffic Accident Analysis](https://github.com/himelds/Analysis_of_United_Kingdom_Traffic_Accidents)
-
-> Analyzed **1.8M+ records** to explore critical factors affecting accident severity, providing insights for policy and planning.
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4466A1?style=flat-square&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚲 [London Bike-Sharing Demand Prediction](https://github.com/himelds/London_Bike_Sharing_Project)
-
-> Achieved **R² = 0.94** for demand forecasting using weather & time-based features, enabling smart resource planning.
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [Business 360 Dashboard](https://github.com/himelds/Business-360-insight)
-
-> Dynamic BI dashboard for AtliQ Hardware integrating SQL + Excel, with **5% DAX performance optimization**.
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎓 Education
 
 <table>
@@ -145,15 +90,6 @@ I'm drawn to problems where data can change how decisions are made — and I bri
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=himelds&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-
-</div>
-
----
 
 <div align="center">
 
